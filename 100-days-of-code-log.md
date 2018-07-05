@@ -14,3 +14,13 @@ I started learning Vert.x framework by Eclipse recent. And I had already created
 
 ---
 
+### Day 2: July 05, 2018
+
+#### Task : Creating a REST API with Vert.x
+#### Progress: 
+
+Off to a bad start today. Not much was implemented. Just added some changes to the User Router and added initial JDBC configuration.
+
+#### Link to work : [https://github.com/LahiruTjay/vertx-rest-api]
+
+---
