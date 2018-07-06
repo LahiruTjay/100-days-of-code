@@ -24,3 +24,14 @@ Off to a bad start today. Not much was implemented. Just added some changes to t
 #### Link to work : [https://github.com/LahiruTjay/vertx-rest-api]
 
 ---
+
+### Day 3: July 06, 2018
+
+#### Task : Creating a REST API with Vert.x
+#### Progress: 
+
+JDBC configuration updated and managed to retrive data from the DB with async JDBC client. Still some parts are confusing, specially with the callbacks. Need to look futher into Java's "Future" and Vert.x "Future".
+
+#### Link to work : [https://github.com/LahiruTjay/vertx-rest-api]
+
+---
