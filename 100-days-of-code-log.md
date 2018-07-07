@@ -35,3 +35,14 @@ JDBC configuration updated and managed to retrive data from the DB with async JD
 #### Link to work : [https://github.com/LahiruTjay/vertx-rest-api]
 
 ---
+
+### Day 4: July 07, 2018
+
+#### Task : Creating a REST API with Vert.x
+#### Progress: 
+
+Managed to generalize the DB methods to support generic queries upto an extent. Needs further improvements. Refactored the architechture of the project. But not satisfied with it. Need to look into it more. Or possibly get expert advice on the matter.
+
+#### Link to work : [https://github.com/LahiruTjay/vertx-rest-api]
+
+---
