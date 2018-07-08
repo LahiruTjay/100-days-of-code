@@ -46,3 +46,14 @@ Managed to generalize the DB methods to support generic queries upto an extent. 
 #### Link to work : [https://github.com/LahiruTjay/vertx-rest-api]
 
 ---
+
+### Day 5: July 08, 2018
+
+#### Task : Creating a REST API with Vert.x
+#### Progress: 
+
+All REST end points for one service are completed. API seems to be working ok. Need to add a proper error handling mechanism. Also architecture needs to be changed. 
+
+#### Link to work : [https://github.com/LahiruTjay/vertx-rest-api]
+
+---
