@@ -57,3 +57,14 @@ All REST end points for one service are completed. API seems to be working ok. N
 #### Link to work : [https://github.com/LahiruTjay/vertx-rest-api]
 
 ---
+
+### Day 6: July 09, 2018
+
+#### Task : Creating a REST API with Vert.x
+#### Progress: 
+
+Added common HTTP error handlers, and also added default 404 handler for the REST API. Need to look into Java generics to handle generic object return for the database queries.
+
+#### Link to work : [https://github.com/LahiruTjay/vertx-rest-api]
+
+---
