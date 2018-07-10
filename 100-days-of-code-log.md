@@ -68,3 +68,14 @@ Added common HTTP error handlers, and also added default 404 handler for the RES
 #### Link to work : [https://github.com/LahiruTjay/vertx-rest-api]
 
 ---
+
+### Day 7: July 10, 2018
+
+#### Task : Micro-services with Spring boot
+#### Progress: 
+
+The Vert.x REST API is kept on hold for sometime. Started working on microservices architecture using Spring boot. As the inital step created a maven multi module project skeleton, which i haven't done earlier. Have to look into microservices with Spring boot and thoroughly understand the core concepts. 
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
+
+---
