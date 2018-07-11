@@ -79,3 +79,14 @@ The Vert.x REST API is kept on hold for sometime. Started working on microservic
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
 
 ---
+
+### Day 8: July 11, 2018
+
+#### Task : Micro-services with Spring boot
+#### Progress: 
+
+Not much of coding today. Just looked at a few videos on microservices with spring to get an idea about the core concepts.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
+
+---
