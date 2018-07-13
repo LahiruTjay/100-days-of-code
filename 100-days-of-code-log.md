@@ -98,7 +98,7 @@ Not much of coding today. Just looked at a few videos on microservices with spri
 
 July 12 : Had to skip because of some urgent work. Double time today. 
 
-July 13 : Created the eureka discovery service and a eureka client. Had a tough time with multi module pom.xml dependancies. Have to look into pom.xml dependancy management
+July 13 : Created the eureka discovery service and a eureka client. Had a tough time with multi module pom.xml dependencies. Have to look into pom.xml dependency management
 
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
 
