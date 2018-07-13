@@ -90,3 +90,16 @@ Not much of coding today. Just looked at a few videos on microservices with spri
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
 
 ---
+
+### Day 9: July 13, 2018
+
+#### Task : Micro-services with Spring boot
+#### Progress: 
+
+July 12 : Had to skip because of some urgent work. Double time today. 
+
+July 13 : Created the eureka discovery service and a eureka client. Had a tough time with multi module pom.xml dependancies. Have to look into pom.xml dependancy management
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
+
+---
