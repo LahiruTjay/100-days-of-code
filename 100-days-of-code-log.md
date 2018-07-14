@@ -103,3 +103,14 @@ July 13 : Created the eureka discovery service and a eureka client. Had a tough 
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
 
 ---
+
+### Day 10: July 14, 2018
+
+#### Task : Micro-services with Spring boot
+#### Progress: 
+
+Configured a rest client to call a rest endpoint through the eureka discovery server. Came across a few bumps in the road, but managed to fix them. Need to understand the concepts of discoery services and look into eureka. Also need to look into circuit breaker pattern with Hystrix.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
+
+---
