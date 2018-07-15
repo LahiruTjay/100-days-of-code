@@ -114,3 +114,14 @@ Configured a rest client to call a rest endpoint through the eureka discovery se
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
 
 ---
+
+### Day 11: July 15, 2018
+
+#### Task : Micro-services with Spring boot
+#### Progress: 
+
+Added hystrix circuit breaker to the api gateway. Added the fallback methods as well. Also managed to configure zuul proxy. Need more time to properly understand both hystrix and zuul.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
+
+---
