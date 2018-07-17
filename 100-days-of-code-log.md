@@ -125,3 +125,14 @@ Added hystrix circuit breaker to the api gateway. Added the fallback methods as 
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
 
 ---
+
+### Day 12: July 16 & 17, 2018
+
+#### Task : Real-time Event Processing with Spring Webflux
+#### Progress: 
+
+Yesterday and today was working on an article about Webflux framework of Spring ecosystem. Worked with event streaming with Webflux. Created a simple web server which produced an event stream, and a web client which consumes and logs the stream. 
+
+#### Link to work : []
+
+---
