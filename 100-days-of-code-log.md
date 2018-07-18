@@ -136,3 +136,14 @@ Yesterday and today was working on an article about Webflux framework of Spring 
 #### Link to work : []
 
 ---
+
+### Day 13: July 18, 2018
+
+#### Task : Real-time Event Processing with Spring Webflux
+#### Progress: 
+
+Managed to finish the article and submit. Not much coding today. But looked into Hystrix circuit breaker and the fallback methods of it.
+
+#### Link to work : []
+
+---
