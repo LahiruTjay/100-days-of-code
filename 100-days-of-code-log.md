@@ -147,3 +147,14 @@ Managed to finish the article and submit. Not much coding today. But looked into
 #### Link to work : []
 
 ---
+
+### Day 14: July 19, 2018
+
+#### Task : Micro-services with Spring boot
+#### Progress: 
+
+Added hystrix dashboard. Looking in to feign client, trying to understand how it works. Not much coding today.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
+
+---
