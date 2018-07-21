@@ -159,12 +159,23 @@ Added hystrix dashboard. Looking in to feign client, trying to understand how it
 
 ---
 
-### Day 15: July 120, 2018
+### Day 15: July 20, 2018
 
 #### Task : Micro-services with Spring boot
 #### Progress: 
 
 Added feign client. Just a simple client for testing purposes. It worked out well. Microservies are still in experimental bits and pieces. Need to create a proper working API. 
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
+
+---
+
+### Day 16: July 21, 2018
+
+#### Task : Micro-services with Spring boot
+#### Progress: 
+
+Started to piece together the services. Added a module which is backed by Spring Data Jpa ORM and MySQL. Started creating the basic CRUD operations of one module.
 
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
 
