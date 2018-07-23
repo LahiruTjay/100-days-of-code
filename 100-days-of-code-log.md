@@ -180,3 +180,14 @@ Started to piece together the services. Added a module which is backed by Spring
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
 
 ---
+
+### Day 17: July 22, July 23, 2018
+
+#### Task : Micro-services with Spring boot
+#### Progress: 
+
+Worked on the CRUD operations. Managed to finsih the basics. Looking into authentication for microservices, after that can finalize everything.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
+
+---
