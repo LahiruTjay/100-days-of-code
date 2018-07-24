@@ -191,3 +191,14 @@ Worked on the CRUD operations. Managed to finsih the basics. Looking into authen
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
 
 ---
+
+### Day 18: July 24, 2018
+
+#### Task : Micro-services with Spring boot
+#### Progress: 
+
+Not much coding today. Looking into JWT and OAuth2 authentication along with Spring security.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
+
+---
