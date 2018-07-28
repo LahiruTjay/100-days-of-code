@@ -202,3 +202,25 @@ Not much coding today. Looking into JWT and OAuth2 authentication along with Spr
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-microservices]
 
 ---
+
+### Day 19: July 27, 2018
+
+#### Task : Spring security OAuth 2
+#### Progress: 
+
+Started implementing a Authorization application with Spring OAuth 2. This is as a pre-work for the authorization for the microservices project. Managed to build the Authorization server which issue a OAuth token.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-oauth2]
+
+---
+
+### Day 20: July 28, 2018
+
+#### Task : Spring security OAuth 2
+#### Progress: 
+
+Implemented a separate resource server which validates the token issued from the authorization server. Still much is needed to learn about the Spring security architechture.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-oauth2]
+
+---
