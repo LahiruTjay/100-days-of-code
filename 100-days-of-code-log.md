@@ -224,3 +224,14 @@ Implemented a separate resource server which validates the token issued from the
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-oauth2]
 
 ---
+
+### Day 21: July 29, 2018
+
+#### Task : Spring security OAuth 2
+#### Progress: 
+
+Looked at Spring security. Still much more to learn. Started messing with the security filters.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-oauth2]
+
+---
