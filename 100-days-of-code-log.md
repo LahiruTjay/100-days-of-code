@@ -235,3 +235,14 @@ Looked at Spring security. Still much more to learn. Started messing with the se
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-oauth2]
 
 ---
+
+### Day 22: July 30, 2018
+
+#### Task : Spring security OAuth 2
+#### Progress: 
+
+Added a token enhancer bean to the OAuth token endpoint. Still learning Spring security.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-oauth2]
+
+---
