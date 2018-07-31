@@ -246,3 +246,14 @@ Added a token enhancer bean to the OAuth token endpoint. Still learning Spring s
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-oauth2]
 
 ---
+
+### Day 23: July 31, 2018
+
+#### Task : Spring security OAuth 2
+#### Progress: 
+
+Refactoring the project. Not much of a productive day.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-oauth2]
+
+---
