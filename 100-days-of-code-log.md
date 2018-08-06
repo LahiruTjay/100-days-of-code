@@ -257,3 +257,14 @@ Refactoring the project. Not much of a productive day.
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-oauth2]
 
 ---
+
+### Day 24: August 06, 2018
+
+#### Task : Spring security OAuth 2
+#### Progress: 
+
+Refactoring the project. Learning Spring security related to OAuth2. Scope is bigger with Spring security.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-oauth2]
+
+---
