@@ -268,3 +268,14 @@ Refactoring the project. Learning Spring security related to OAuth2. Scope is bi
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-oauth2]
 
 ---
+
+### Day 25: August 07, 2018
+
+#### Task : Spring security OAuth 2
+#### Progress: 
+
+Refactoring the project.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-oauth2]
+
+---
