@@ -279,3 +279,14 @@ Refactoring the project.
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-oauth2]
 
 ---
+
+### Day 26: August 08, 2018
+
+#### Task : Spring security JWT
+#### Progress: 
+
+Started working with Spring security with JWT. Initialized the project. Reading about Json Web Tokens (JWT) for further information.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-jwt]
+
+---
