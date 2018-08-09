@@ -290,3 +290,14 @@ Started working with Spring security with JWT. Initialized the project. Reading 
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-jwt]
 
 ---
+
+### Day 27: August 09, 2018
+
+#### Task : Spring security JWT
+#### Progress: 
+
+Structuring the project. And also reading up on JWT. Bit different than OAuth2.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-jwt]
+
+---
