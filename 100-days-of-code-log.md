@@ -301,3 +301,14 @@ Structuring the project. And also reading up on JWT. Bit different than OAuth2.
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-jwt]
 
 ---
+
+### Day 28: August 10, 2018
+
+#### Task : Spring security JWT
+#### Progress: 
+
+Structuring the project. Learning about JWT with spring security
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-jwt]
+
+---
