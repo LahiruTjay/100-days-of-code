@@ -312,3 +312,14 @@ Structuring the project. Learning about JWT with spring security
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-jwt]
 
 ---
+
+### Day 29: August 11, 2018
+
+#### Task : Spring security JWT
+#### Progress: 
+
+Added sample Rest controllers and the security config which will be responsible for the authorization of the project.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-jwt]
+
+---
