@@ -324,12 +324,23 @@ Added sample Rest controllers and the security config which will be responsible 
 
 ---
 
-### Day 30 & 31: August 11, 2018
+### Day 30 & 31: August 12, 2018
 
 #### Task : Spring security JWT
 #### Progress: 
 
 Managed to secure a REST API via JWT, and project refactoring was done. This was done using security filters. JWT authentication works fine however needs to implement the same using a different method. Specifically using the Authorization server.
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-jwt]
+
+---
+
+### Day 32 & 33: August 15, 2018
+
+#### Task : Spring security JWT
+#### Progress: 
+
+Refactoring the project. Researching about developing the same JWT authentication server in a different way.
 
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-jwt]
 
