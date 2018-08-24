@@ -346,12 +346,23 @@ Refactoring the project. Researching about developing the same JWT authenticatio
 
 ---
 
-### Day 34 : August 15, 2018
+### Day 34 : August 22, 2018
 
 #### Task : Spring security JWT
 #### Progress: 
 
 Added DB support to the project. Refactoring the project. 
+
+#### Link to work : [https://github.com/LahiruTjay/spring-boot-jwt]
+
+---
+
+### Day 35 : August 24, 2018
+
+#### Task : Spring security JWT
+#### Progress: 
+
+Refactoring the project. 
 
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-jwt]
 
