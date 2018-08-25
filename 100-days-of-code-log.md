@@ -367,3 +367,14 @@ Refactoring the project.
 #### Link to work : [https://github.com/LahiruTjay/spring-boot-jwt]
 
 ---
+
+### Day 36 : August 25, 2018
+
+#### Task : Natural Language Processing with NLTK
+#### Progress: 
+
+Temporary leave from java and going to Python and Natural Language Processing. This repo is for an article which I recently started to write. I will be learning NLTK with python as I go forward with the article.
+
+#### Link to work : [https://github.com/LahiruTjay/nlp-chronicles]
+
+---
