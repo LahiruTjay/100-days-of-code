@@ -378,3 +378,14 @@ Temporary leave from java and going to Python and Natural Language Processing. T
 #### Link to work : [https://github.com/LahiruTjay/nlp-chronicles]
 
 ---
+
+### Day 37 : August 26, 2018
+
+#### Task : Natural Language Processing with NLTK
+#### Progress: 
+
+Tokenization using NLTK added.
+
+#### Link to work : [https://github.com/LahiruTjay/nlp-chronicles]
+
+---
