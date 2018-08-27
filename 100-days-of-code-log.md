@@ -389,3 +389,14 @@ Tokenization using NLTK added.
 #### Link to work : [https://github.com/LahiruTjay/nlp-chronicles]
 
 ---
+
+### Day 38 : August 27, 2018
+
+#### Task : Natural Language Processing with NLTK
+#### Progress: 
+
+Stemming and Lemmatization sections added to the Jupyter notebook
+
+#### Link to work : [https://github.com/LahiruTjay/nlp-chronicles]
+
+---
