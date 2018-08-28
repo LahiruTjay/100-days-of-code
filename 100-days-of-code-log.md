@@ -400,3 +400,14 @@ Stemming and Lemmatization sections added to the Jupyter notebook
 #### Link to work : [https://github.com/LahiruTjay/nlp-chronicles]
 
 ---
+
+### Day 39 : August 28, 2018
+
+#### Task : Natural Language Processing with NLTK
+#### Progress: 
+
+POS Tagging, Stop word removal sections added to the Jupyter notebook
+
+#### Link to work : [https://github.com/LahiruTjay/nlp-chronicles]
+
+---
