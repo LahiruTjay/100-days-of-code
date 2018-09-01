@@ -411,3 +411,14 @@ POS Tagging, Stop word removal sections added to the Jupyter notebook
 #### Link to work : [https://github.com/LahiruTjay/nlp-chronicles]
 
 ---
+
+### Day 40, 41, 42, 43 : August 29, 30, 31 and September 01 2018
+
+#### Task : Natural Language Processing with NLTK
+#### Progress: 
+
+Addition of more sections to the jupyter notebook. Have to modify the code snippets.
+
+#### Link to work : [https://github.com/LahiruTjay/nlp-chronicles]
+
+---
